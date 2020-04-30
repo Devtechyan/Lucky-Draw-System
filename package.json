@@ -44,7 +44,7 @@
     },
     "dependencies": {
         "tailwindcss": "^1.1.2",
-        "jquery": "^2.2.4",
+        "jquery": "^3.5.0",
         "jquery-smooth-scroll": "^2.0.0",
         "lazysizes": "^2.0.0",
         "normalize.css": "^4.1.1",
